@@ -1,7 +1,7 @@
 Hi 👋 My name is Joseph
 =======================
 
-Mobile Web Developer
+Ionic Mobile Web Developer
 --------------------
 
 I am an experienced Hybrid Application Developer with fundamental knowledge of software planning and development. Have experience using IONIC with base Angular and Vue JS as modern Hybrid Mobile Framework.
@@ -9,7 +9,7 @@ I am an experienced Hybrid Application Developer with fundamental knowledge of s
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [josephshandyharvian@gmail.com](mailto:josephshandyharvian@gmail.com)
 * 🚀  I'm currently working on [Japfa Comfeed Indonesia](http://https://www.japfacomfeed.co.id/id)
-* 🧠  I'm learning Reactjs, Next.js and Nuxt.js
+* 🧠  I'm learning Ionic, Angular, Vue.js and Reactjs
 * 🤝  I'm open to collaborating on Ionic Project or Mobile Web Apps
 
 ### Skills
