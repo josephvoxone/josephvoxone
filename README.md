@@ -8,8 +8,7 @@ I am an experienced Hybrid Application Developer with fundamental knowledge of s
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [josephshandyharvian@gmail.com](mailto:josephshandyharvian@gmail.com)
-* 🚀  I'm currently working on [Japfa Comfeed Indonesia](https://www.japfacomfeed.co.id/id)
-* 💻  I'm currently freelance on [Codext Gmbh](https://codext.de/)
+* 🚀  I'm currently working on [[Neovestor](https://www.japfacomfeed.co.id/id)](https://neovestor.com/)
 * 🧠  I'm learning Ionic, Angular, Vue.js and Reactjs
 * 🤝  I'm open to collaborating on Ionic Project or Mobile Web Apps
 
